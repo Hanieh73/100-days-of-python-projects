@@ -26,7 +26,7 @@ This project assists in splitting your bill and calculating each person's paymen
 ### Day 3 Project: Treasure Island
 Link: [Treasure Island](https://replit.com/@Hanieh73/treasure-island?v=1)
 
-This project determines whether you win or lose based on the direction, activity, and door color choices you make. 
+This project determines whether you win or lose based on the direction, activity, and door colour choices you make. 
 
 ### Day 4 Project: Rock Scissors Paper
 Link: [rock scissors paper](https://replit.com/@Hanieh73/rock-paper-scissors?v=1)
