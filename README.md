@@ -28,5 +28,13 @@ Link: [Treasure Island](https://replit.com/@Hanieh73/treasure-island?v=1)
 
 This project determines whether you win or lose based on the direction, activity, and door color choices you make. 
 
+### Day 4 Project: Rock Scissors Paper
+Link: [rock scissors paper](https://replit.com/@Hanieh73/rock-paper-scissors?v=1)
+
+This program simulates the classic game of Rock, Paper, Scissors. To play, you need to input one of the following values: 'rock', 'paper', or 'scissors'. The computer will then make a random choice. Based on your selection and the computer's choice, the program will determine whether you win or lose the game.
+
+
+
+
 
 
