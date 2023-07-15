@@ -33,6 +33,12 @@ Link: [rock scissors paper](https://replit.com/@Hanieh73/rock-paper-scissors?v=1
 
 This program simulates the classic game of Rock, Paper, Scissors. To play, you need to input one of the following values: 'rock', 'paper', or 'scissors'. The computer will then make a random choice. Based on your selection and the computer's choice, the program will determine whether you win or lose the game.
 
+### Day 5 Project: Password Generator
+Link: [Password-Generator](https://replit.com/@Hanieh73/password-generator-start2?v=1)
+
+This project is designed to help you create a secure and random password. It will prompt you to specify the number of letters, symbols, and numbers you want in your password. Based on this information, the project will generate a complete random password for you.
+By using this project, you can ensure that your password is secure and difficult for hackers to target. It's an effective way to generate strong passwords and enhance your online security. Stay safe!
+
 
 
 
