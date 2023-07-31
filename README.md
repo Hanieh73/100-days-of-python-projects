@@ -39,6 +39,11 @@ Link: [Password-Generator](https://replit.com/@Hanieh73/password-generator-start
 This project is designed to help you create a secure and random password. It will prompt you to specify the number of letters, symbols, and numbers you want in your password. Based on this information, the project will generate a complete random password for you.
 By using this project, you can ensure that your password is secure and difficult for hackers to target. It's an effective way to generate strong passwords and enhance your online security. Stay safe!
 
+### Day 6 Project: Reebord's World/ Maze escape 
+Link: pending
+
+Get ready for a maze-tastic adventure with Reeborg! Our character's on a mission to break free from the puzzling maze. But oh no, there's a sneaky bug in the mix! So until I ace day 15, this project's on hold, but watch out for our epic maze escape soon! Stay tuned!
+
 
 
 
