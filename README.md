@@ -45,6 +45,10 @@ Link: pending
 Get ready for a maze-tastic adventure with Reeborg! Our character's on a mission to break free from the puzzling maze. But oh no, there's a sneaky bug in the mix! So until I ace day 15, this project's on hold, but watch out for our epic maze escape soon! Stay tuned!
 
 
+### Day 7 Project: Hangman
+Link: [Hangman](https://replit.com/@Hanieh73/Day-7-Hangman)
+
+Similar to traditional hangman games, this version begins by revealing the length of a randomly generated word and prompting you to guess a letter. Correct guesses are displayed, while incorrect ones result in the loss of a life. The game continues until you either guess all letters correctly to win or exhaust your lives to lose.
 
 
 
