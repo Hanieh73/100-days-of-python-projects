@@ -51,5 +51,11 @@ Link: [Hangman](https://replit.com/@Hanieh73/Day-7-Hangman?v=1)
 Similar to traditional hangman games, this version begins by revealing the length of a randomly generated word and prompting you to guess a letter. Correct guesses are displayed, while incorrect ones result in the loss of a life. The game continues until you either guess all letters correctly to win or exhaust your lives to lose.
 
 
+### Day 8 Project: Caesar Cipher
+Link: [Caesar Cipher](https://replit.com/@Hanieh73/caesar-cipher?v=1) 
+
+The Caesar Cipher Challenge is an interactive text-based game that lets you encode or decode messages. You'll choose your action, input a message, and set the number of shifts for transformation. The game then reveals the encrypted or decrypted result. If you're ready for more cryptic adventures, you can continue, or gracefully exit with a friendly goodbye message.
+
+
 
 
